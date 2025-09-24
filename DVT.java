@@ -9,7 +9,7 @@ public class DVT {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the number of nodes: ");
         nodes = sc.nextInt();
-        System.out.println("Enter the cost matrix (enter 999 for no path):");
+        System.out.println("Enter the cost matrix: ");
         for (i = 1; i <=nodes; i++) {
             for (j = 1; j <=nodes; j++) {
                 costmat[i][j] = sc.nextInt();
