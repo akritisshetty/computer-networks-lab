@@ -19,4 +19,10 @@ Welcome to the **Computer Networks Lab** repository!
 8. Develop a program on a datagram socket for client/server to display the messages on client side, typed at the server side.
 ---
 
+9. Develop a program for a simple RSA algorithm to encrypt and decrypt the data.
+---
+
+10. Develop a program for congestion control using a leaky bucket algorithm.
+---
+
 If you find this repository helpful, please star it. Happy coding!
